@@ -1,4 +1,4 @@
-# 🏞 CMWSSB Reservoir Level Scraper
+# 🏞  Reservoir Level WebScraper
 
 A **Python + Selenium** automation tool to scrape **reservoir water level data** from the [CMWSSB portal](https://cmwssb.tn.gov.in/lake-level) for **multiple dates listed in an Excel file**.  
 This project converts **hours of manual data collection** into a **minutes-long batch process** with clean, structured Excel output for hydrological analysis.
